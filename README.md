@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi 👋
 # Annie Lee
 
 Applied Statistics Graduate Student  

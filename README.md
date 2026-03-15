@@ -23,6 +23,19 @@ Machine learning model predicting match outcomes using early-game features.
 ### Probabilistic Evaluation of LLM Performance on MMLU
 Bayesian hierarchical logistic regression analyzing performance differences across large language models.
 
+## Technical Skills
+
+Programming  
+Python, SQL
+
+Machine Learning  
+Scikit-learn, statistical modeling
+
+Data Analysis  
+Pandas, NumPy
+
+AI Systems  
+LLM evaluation, RAG-based architectures, MCP
 
 ## Links
 
